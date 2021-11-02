@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sazzad Alam
-- 👀 I’m interested in Web vevelopment
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Machine Learning
 
 
