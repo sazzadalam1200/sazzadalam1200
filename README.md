@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sazzad Alam
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning React.js and Django
 
 
 <!---
